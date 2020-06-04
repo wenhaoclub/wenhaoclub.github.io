@@ -5,8 +5,8 @@ baseurl:
 url: https://wenhaoclub.github.io/
 date_format: "ordinal"
 title: 文浩
-subtitle: "公众号：闷骚的程序员"
-description: "互联网IT界的搬运工，公众号：闷骚的程序员"
+subtitle: "公众号：似水似流年"
+description: "互联网IT界的搬运工，公众号：似水似流年"
 keywords: 文浩,wenhao,WenHao,wenhaoclub,fuwenhao.club,文の浩
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -17,6 +17,8 @@ cdn:
     jsdelivr:
         enabled: true
 # 组件配置
+share_component: 
+    enabled: true
 components:
     # 分享
     share:
