@@ -550,8 +550,8 @@ public class MyClassLoaderTest3 {
 
 ## 总结：
 - JVM内容是Java开发者必备知识点，很多底层性能调优时候都需要具备这方面的知识储备，才能更快速的定位问题点找到方法。
-- [GitHub](https://github.com/fwh666/fwh-JVM.git) 的地址为：https://github.com/fwh666/fwh-JVM.git
-- Blog地址：[文浩的博客](https://fuwenhao.club/)
+- [示例代码-GitHub](https://github.com/fwh666/fwh-JVM.git) 
+- Blog链接：[文浩的博客](https://fuwenhao.club/)
  <li>
 微信公众号：<br />
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="https://s1.ax1x.com/2020/06/04/tBkyU1.jpg" alt="似水似流年" />
