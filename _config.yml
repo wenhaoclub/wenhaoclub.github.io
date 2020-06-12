@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://wenhaoclub.github.io/
+url: https://fuwenhao.club
 date_format: "ordinal"
 title: 文浩
 subtitle: "公众号：似水似流年"
@@ -43,7 +43,7 @@ word_count:
 # ---------------- #
 author: WenHao
 organization: 
-organization_url: 
+organization_url: https://fuwenhao.club
 github_username: wenhaoclub
 location: BeiJing, China
 email: fuwenhao594@163.com
