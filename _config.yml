@@ -23,6 +23,9 @@ components:
     # 分享
     share:
         enabled: true
+    # daoVoice
+    daoVoice:
+        enabled: true
     # 不蒜子访问统计
     busuanzi:
         enabled: true
