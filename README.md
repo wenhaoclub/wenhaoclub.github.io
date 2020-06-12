@@ -19,7 +19,7 @@
 
 **[在线预览 &rarr;](https://wenhaoclub.github.io)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/blogIntroduce.png)
 
 ## Fork 指南
 
@@ -83,8 +83,8 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 <img width="192px" height="192px" src="https://s1.ax1x.com/2020/06/04/tBkyU1.jpg"/>
 
 ## 致谢
-
-本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
+- 本博客参见[码志](https://mazhuang.org/)搭建。
+- 本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
 
 Thanks for JetBrains' support.
 

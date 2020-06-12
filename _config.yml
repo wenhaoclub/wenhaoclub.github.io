@@ -56,10 +56,14 @@ navs:
   -
     href: /categories/
     label: 分类
+  
+  # -
+  #   href: /picture/
+  #   label: 相册
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
 #   -
 #     href: /open-source/
@@ -107,6 +111,10 @@ collections:
     wiki:
         output: true
         permalink: /wiki/:path/
+    
+    picture:
+        output: true
+        permalink: /picture/:path/
 
 # ---------------- #
 #      Comments    #
