@@ -69,11 +69,8 @@ keywords: wenhao, 文浩 ,  fuwenhao.club,  wenhaoclub , 生活  ,  疫情
 	
 	- But，要知道什么是才最重要？健康！也要清楚自己的原则和底线。
 	- **没有人能替你做任何决定，你现在的人生，都是由自己选择走到这里的。**
-	- 此处应该插入一首歌曲赵钶的《有人》 版权原因播放不了请自行搜索~
-<!--<div align=life> 
-<iframe frameborder="no" marginwidth="0" marginheight="0" width=400 height=140 src="https://music.163.com/outchain/player?type=2&id= 1297750769&auto=0&height=66"></iframe>
-</div>-->
-
+	- 此处应该插入一首歌曲赵钶的<a href="https://music.163.com/#/song?id=1297750769" target="_blank">《有人》</a> 版权原因播放不了请自行搜索~ 
+	     
 
 	> 以前自己太在意结果，却忽略了过程。现在与人相处，懂得过程更重要些。也许某一天老去回忆的时候，那些快乐的记忆才是最值得保存下来的。不快乐的记忆我们当然要学着去清除，人生短暂，多些美好，多些快乐，它不香么😂？ 
 	
