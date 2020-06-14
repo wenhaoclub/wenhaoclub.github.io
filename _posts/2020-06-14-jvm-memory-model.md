@@ -96,6 +96,7 @@ redo(); 11 public static void main(String[] args) {
 	- full gc
 		- 回收堆、回收方法区 
 	- 建议：生产环境设置元空间和扩容空间大小值一致
+	- [关于full GC和Minor GC概念](https://juejin.im/post/5b8d2a5551882542ba1ddcf8)
 - JVM的STW机制 (stop the world)
 	- 作用：停止用户线程。 会有影响性能。
 	- 个人理解：再GC遍历过程中，突然线程结束了。所以触发这个机制，将遍历结果放入survivor中。再即系线程流转。
