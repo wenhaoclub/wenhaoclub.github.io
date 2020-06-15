@@ -8,5 +8,6 @@ layout: compress
 {% endif %}
 {% assign assets_images_url = 'src="' | append: assets_base_url | append: "/images" %}
 {% include header.html %}
+{% include daoVoice.html %}
     {{ content | replace: 'src="/images', assets_images_url }}
 {% include footer.html %}
