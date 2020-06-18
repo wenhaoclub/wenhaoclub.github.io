@@ -56,6 +56,9 @@ topmost: true
 		- 自我固件升级
 
 ### 留意生活：
+
+>生活最佳状态是冷冷清清地风风火火。——木心
+
 - 手机或相机捕捉生活
 	- 参考纪录片：<a href="https://movie.douban.com/subject/27191492" target="_blank">《四个春天》</a>
 	- 记录身边人的开始结束，生离死别。
