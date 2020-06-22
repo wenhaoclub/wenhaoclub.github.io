@@ -3,7 +3,7 @@ layout: post
 title: template page
 categories: [cate1, cate2]
 description: some word here
-keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club
+keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , 文浩的博客
 link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
 ---
 
