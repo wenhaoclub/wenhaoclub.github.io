@@ -154,6 +154,12 @@ simple_jekyll_search:
     # 最多显示多少条搜索结果
     limit: 10
 
+
+#CNZZ
+cnzz:
+    enable: true
+
+
 # ---------------- #
 #      Google      #
 # ---------------- #
