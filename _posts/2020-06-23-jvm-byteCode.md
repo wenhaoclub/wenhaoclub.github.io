@@ -8,7 +8,6 @@ keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , �
 
 
 ## 序：
-
 > 了解VM字节码对于开发人员，可以更准确、直观地理解Java语言中更深层次的东西。
 
 ## 准备：

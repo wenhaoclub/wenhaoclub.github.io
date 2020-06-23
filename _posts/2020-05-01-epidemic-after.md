@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 论疫情之后我们要选择过怎样的人生？
+title: 论--疫情之后我们要选择过怎样的人生？
 categories: [Life]
 description: 论疫情之后我们要选择过怎样的人生？
 keywords: wenhao, 文浩 ,  fuwenhao.club,  wenhaoclub , 生活  ,  疫情

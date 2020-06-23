@@ -7,8 +7,7 @@ keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , d
 ---
 
 ## 序：
-
- > 之前docker系列云笔记同步--run命令篇
+> 之前docker系列云笔记同步--run命令篇
 
 ## Docker命令详解（run篇）：
 

@@ -6,7 +6,6 @@ description: CentOs7安装docker
 keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , docker , centos
 ---
 ## 序：
-
 > 之前docker系列云笔记同步……
 
 ## 教程：

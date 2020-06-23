@@ -8,7 +8,6 @@ link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.j
 ---
 
 # 序：
-
 > 北京疫情二次复发，精神小伙表示小命要紧，没事宅在家coding多美好……
 
 ## 分析：

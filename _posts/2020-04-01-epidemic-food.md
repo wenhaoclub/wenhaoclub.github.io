@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 记录--疫情期间短暂厨艺生涯😪
+title: 记--疫情期间短暂厨艺生涯😪
 categories: [Life]
 description: 自己买菜，自己洗菜，自己烧菜，自己吃菜
 keywords: wenhao, 文浩 ,  fuwenhao.club ,  wenhaoclub , 做饭
