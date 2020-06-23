@@ -110,3 +110,14 @@ keywords: wenhao, 文浩 ,  fuwenhao.club,  wenhaoclub , 生活  ,  疫情
 
 
 --- 
+<script src="https://my.openwrite.cn/js/readmore.js" type="text/javascript"></script>
+<script>
+    const btw = new BTWPlugin();
+    btw.init({
+        id: 'container-1',
+        blogId: '22645-1591856403112-769',
+        name: '似水似流年',
+        qrcode: 'https://s1.ax1x.com/2020/06/04/tBkyU1.jpg',
+        keyword: '文浩',
+    });
+</script>

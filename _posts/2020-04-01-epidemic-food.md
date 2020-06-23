@@ -104,3 +104,14 @@ link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.j
 
 
 
+<script src="https://my.openwrite.cn/js/readmore.js" type="text/javascript"></script>
+<script>
+    const btw = new BTWPlugin();
+    btw.init({
+        id: 'container-1',
+        blogId: '22645-1591856403112-769',
+        name: '似水似流年',
+        qrcode: 'https://s1.ax1x.com/2020/06/04/tBkyU1.jpg',
+        keyword: '文浩',
+    });
+</script>
