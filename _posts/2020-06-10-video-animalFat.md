@@ -10,8 +10,14 @@ keywords: wenhao, 文浩, video, animal
 
 ## 如果动物都变胖：
 
+### 微博版：
 <video controls="controls" src="https://f.video.weibocdn.com/TJeEhRlHlx07DXhPVxNe01041202qMuE0E010.mp4?label=mp4_720p&template=1280x720.25.0&trans_finger=721584770189073627c6ee9d880087b3&Expires=1591779732&ssig=%2FoQekrzTlJ&KID=unistore,video"></video>
 
+### B站版：
+
+<div style="position: relative; padding: 30% 45%;">
+		<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?cid=18773176&aid=11352716&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
+</div>
 
 ## 视频博文：
 ### 准备工作：
@@ -31,6 +37,8 @@ keywords: wenhao, 文浩, video, animal
 ### 相关问题：
 - 视频目前无法自适应屏幕，需要做iframe处理
 - 获取视频URL路径流程有些繁琐，后续考虑B站上直接获取用于发布博文
+- 微博版本的有时效时间，需要获取AppSecret生成sign值才能设置永久时间。
+	- 后续考虑其他视频云存储
 
 ### 总结：
 - 后续考虑授权认后证观看指定视频
