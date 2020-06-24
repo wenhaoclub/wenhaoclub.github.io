@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-我是文浩，这个人很懒，什么都没有留下。
+我是文浩，他注定是个低调的大侠，所以什么都没写……🤣
 
 互联网IT界的搬运工。
 
@@ -19,7 +19,7 @@ permalink: /about/
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
 <li>
-微信公众号：<br />
+微信公众号：<a href="https://s1.ax1x.com/2020/06/04/tBkyU1.jpg" target="_blank">似水似流年</a><br />
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="https://s1.ax1x.com/2020/06/04/tBkyU1.jpg" alt="似水似流年" />
 </li>
 </ul>
