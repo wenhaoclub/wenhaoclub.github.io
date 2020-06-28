@@ -18,6 +18,7 @@ Content here
 
 <img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/renzhitianxing.JPG" width="150" height="250">
 
+![垃圾算法](/images/posts/jvm/GC_memory02.png)
 - newTable链接：
 
 <a href="baidu.com" target="_blank">链接</a>
