@@ -5,17 +5,12 @@ categories: [Life]
 description: 回炉塑造中……
 keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , 文浩的博客
 ---
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
 
-<div class="aplayer" data-id="" data-server="netease" data-type="song" data-mode="single" data-autoplay="false"></div>
-
-
-
+<div class="aplayer" data-id="1389090775" data-server="netease" data-type="song" data-mode="single" data-autoplay="true"></div>
 ![小星球](/images/posts/life/city_small_earth.png)
-
 ## 序：
 > 想换一个环境，换一种生活方式，去经历些不曾经历的事，去拥有一些属于自己的故事。
 
