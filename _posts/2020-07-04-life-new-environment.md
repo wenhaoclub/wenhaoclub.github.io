@@ -12,17 +12,7 @@ keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , �
 
 <div class="aplayer" data-id="" data-server="netease" data-type="song" data-mode="single" data-autoplay="false"></div>
 
-<script src="https://my.openwrite.cn/js/readmore.js" type="text/javascript"></script>
-<script>
-    const btw = new BTWPlugin();
-    btw.init({
-        id: 'container-1',
-        blogId: '22645-1591856403112-769',
-        name: '似水似流年',
-        qrcode: 'https://s1.ax1x.com/2020/06/04/tBkyU1.jpg',
-        keyword: '文浩',
-    });
-</script>
+
 
 ![小星球](/images/posts/life/city_small_earth.png)
 
@@ -35,7 +25,20 @@ keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , �
 - 小环境下因为朋友的变迁，因为感情的不顺，因为个人生活感慨等。
 - 一切一切看似好的或坏的原因，突然乏味了现在的这种生活方式。
 
+
 ## 正文：
+
+<script src="https://my.openwrite.cn/js/readmore.js" type="text/javascript"></script>
+<script>
+    const btw = new BTWPlugin();
+    btw.init({
+        id: 'container-1',
+        blogId: '22645-1591856403112-769',
+        name: '似水似流年',
+        qrcode: 'https://s1.ax1x.com/2020/06/04/tBkyU1.jpg',
+        keyword: '文浩',
+    });
+</script>
 
 &#8195; &#8195; &nbsp; &nbsp; 一切的源头也许还是要从出租房到期说起。
 	
