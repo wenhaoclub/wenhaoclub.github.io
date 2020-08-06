@@ -22,9 +22,9 @@
 #   name: mzlogin
 #   url: http://weibo.com/mzlogin
 
-# - sitename: 知乎
-#   name: mzlogin
-#   url: http://www.zhihu.com/people/mzlogin
+- sitename: 知乎
+  name: 文浩
+  url: https://www.zhihu.com/people/fu-wen-hao-74
 
 # - sitename: 豆瓣
 #   name: 壮哥不胖
@@ -38,19 +38,31 @@
 #   name: mzlogin
 #   url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
 
-# - sitename: 图虫
-#   name: mzlogin
-#   url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+- sitename: 图虫
+  name: 似水似流年
+  url: https://tuchong.com/13343250/
 
-# - sitename: keep
-#   name: mzlogin
-#   url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+- sitename: Keep
+  name: 似水似流年
+  url: https://www.gotokeep.com/users/56e65b8ff5185d1808d4dd18
 
-# - sitename: 大众点评
-#   name: mzlogin
-#   url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+- sitename: 大众点评
+  name: 似水似流年
+  url: http://www.dianping.com/member/45420126/reviews
+
+- sitename: 即刻
+  name: 似水似流年
+  url: https://m.okjike.com/users/9426FF84-E61A-4A4B-A616-64F2484BCD78
+  
+- sitename: 网易云
+  name: 似水厶流年
+  url: https://music.163.com/#/user/home?id=399901820
 
 # - sitename: 小红书
 #   name: mzlogin
 #   url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+
+- sitename: 更多内容待续……
+  name: 文の浩的博客
+  url: https://plus.fuwenhao.club
 
