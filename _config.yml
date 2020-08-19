@@ -2,7 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://fuwenhao.club
+#host: https://fuwenhao.club
+#url: https://fuwenhao.club
+url: http://bak.fuwenhao.club
 date_format: "ordinal"
 title: 文浩
 subtitle: "公众号：似水似流年"
