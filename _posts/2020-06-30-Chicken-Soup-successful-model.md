@@ -5,16 +5,14 @@ categories: [鸡汤文]
 description: some word here
 keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , 文浩的博客
 ---
+## 序：
+> 本文转自36Kr，周一鸡汤文新鲜送上~✿✿ヽ(°▽°)ノ✿
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
 
 <div class="aplayer" data-id="1293886117" data-server="netease" data-type="song" data-mode="single" data-autoplay="true"></div>
-
-
-## 序：
-> 本文转自36Kr，周一鸡汤文新鲜送上~✿✿ヽ(°▽°)ノ✿
 
 ## 具备这12项特质，说明你“超出平均水准”
 编者按：为什么一些人能够取得超乎常人的成就，为什么一些人能够过得很幸福。说起来可能有点俗气，那是因为他们有正确的哲学观。但哲学并不是什么高高在上的东西，而且源自生活的点点滴滴，如果你在生活当中具备了下面列举的12种属性，说明你也不是一般人。原文发布者Medium上，作者是Spencer Sekulin，标题为：12 Attributes of Above Average People

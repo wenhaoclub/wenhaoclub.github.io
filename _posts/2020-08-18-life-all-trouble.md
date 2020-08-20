@@ -5,15 +5,14 @@ categories: [Life]
 description: 麻烦总是接踵而至
 keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , 文浩的博客
 ---
+# 序：
+> 所有的麻烦接踵而至，唯有乐观才能迎难而上。
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
 
 <div class="aplayer" data-id="1468751214" data-server="netease" data-type="song" data-mode="single" data-autoplay="true"></div>
-
-
-# 序：
-> 所有的麻烦接踵而至，唯有乐观才能迎难而上。
 
 ##  碎碎念：
 >事事如意，样样顺心的日子是理想；沟沟坎坎，曲曲折折的日子才是生活。

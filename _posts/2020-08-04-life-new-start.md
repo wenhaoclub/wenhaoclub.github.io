@@ -5,15 +5,14 @@ categories: [Life]
 description: 记--闭关四十天
 keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , 文浩的博客
 ---
+# 序：
+> OK，这一波伤害终于是扛过去了~😷 开始准备下一个Flag🤞
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
 
 <div class="aplayer" data-id="1436076578" data-server="netease" data-type="song" data-mode="single" data-autoplay="true"></div>
-
-# 序：
-> OK，这一波伤害终于是扛过去了~😷 开始准备下一个Flag🤞
-
 ## 碎碎念：
 >  不管你有木有准备好，生活都会推着你前行。当然有的人是跑着，有的人却是是爬着。
 
