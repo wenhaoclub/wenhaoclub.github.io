@@ -47,12 +47,32 @@ layout: default
   <div class="column three-fourths" >
     {% include content-header-ad.html %}
     <!-- 20200620-wenhao-openwrite -->
+    {% if page.lock %}
     <div id="container-1">
+        <article class="article-content markdown-body">
+          {{ content }}
+          {% include copyright.html %}
+          <script src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/js/readmore.js" type="text/javascript"></script>
+          <script>
+              const btw = new BTWPlugin();
+              btw.init({
+                  id: 'container-1',
+                  blogId: '22645-1591856403112-769',
+                  name: '似水似流年',
+                  qrcode: 'https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/wechat/weixingongzhonghao.jpg',
+                  keyword: '文浩',
+              });
+          </script>
+        </article>
+    </div>
+    {% else %}
+     <div>
         <article class="article-content markdown-body">
           {{ content }}
           {% include copyright.html %}
         </article>
     </div>
+    {% endif %}
     <div class="share">
       {% include sns-share.html %}
     </div>

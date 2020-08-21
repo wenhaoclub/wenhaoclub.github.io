@@ -1,5 +1,6 @@
 ---
 layout: post
+lock: need
 title: 记--新的环境-新的开始-新的自己
 categories: [Life]
 description: 回炉塑造中……

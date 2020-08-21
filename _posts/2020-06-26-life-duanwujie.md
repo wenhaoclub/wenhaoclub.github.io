@@ -1,5 +1,6 @@
 ---
 layout: post
+lock: need
 title: 记--端午假期
 categories: [Life]
 description: 端午假期一个人宅出一片天地

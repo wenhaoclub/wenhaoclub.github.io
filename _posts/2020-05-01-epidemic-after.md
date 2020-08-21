@@ -1,5 +1,6 @@
 ---
 layout: post
+lock: need
 title: 论--疫情之后我们要选择过怎样的人生？
 categories: [Life]
 description: 论疫情之后我们要选择过怎样的人生？

@@ -1,5 +1,6 @@
 ---
 layout: post
+lock: need
 title: 记--伪闭关四十天
 categories: [Life]
 description: 记--闭关四十天
