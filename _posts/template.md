@@ -2,14 +2,26 @@
 layout: post
 lock: need
 title: template page
+date: 2020-09-05 21:41:03
+author: 文浩
+img:
+coverImg: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/banner/04.jpg
+top: true
+cover: true
+toc: true
+mathjax: false
+summary:
+tags:
+  - 奥森公园
+  - Images
 categories: [cate1, cate2]
 description: some word here
-keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , 文浩的博客
+keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , plus.fuwenhao.club  ,文浩的博客 , 似水似流年的博客
 link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
 ---
 # 序：
 >
-
+>PS：👇背景音乐会自动播放的。不行就戳一下👇
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>

@@ -56,6 +56,6 @@ keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , �
 
 3. 建议一个机构可以处理所有相关的业务问题，而不会分散到其他点上。帮助普通人员少跑冤枉路。
 
-![期满换证](/images/posts/life/driverLience/20200810-车管所流程.png)
+![期满换证](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/driverLience/20200810-%E8%BD%A6%E7%AE%A1%E6%89%80%E6%B5%81%E7%A8%8B.png)
 
 <a href="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/driverLience/20200810-%E8%BD%A6%E7%AE%A1%E6%89%80%E6%B5%81%E7%A8%8B.png" target="_blank">期满换证波折流程图</a>
