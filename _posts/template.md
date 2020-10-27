@@ -5,7 +5,7 @@ title: template page
 date: 2020-09-05 21:41:03
 author: 文浩
 img:
-coverImg: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/banner/04.jpg
+coverImg: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/banner/09.jpg
 top: true
 cover: true
 toc: true
@@ -14,7 +14,7 @@ summary:
 tags:
   - 奥森公园
   - Images
-categories: [cate1, cate2]
+categories: [Life]
 description: some word here
 keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , plus.fuwenhao.club  ,文浩的博客 , 似水似流年的博客
 link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
