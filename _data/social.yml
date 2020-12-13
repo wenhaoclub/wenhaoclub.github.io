@@ -22,13 +22,17 @@
 #   name: mzlogin
 #   url: http://weibo.com/mzlogin
 
-- sitename: 知乎
-  name: 文浩
-  url: https://www.zhihu.com/people/fu-wen-hao-74
+- sitename: Keep
+  name: 似水似流年
+  url: https://www.gotokeep.com/users/56e65b8ff5185d1808d4dd18
 
-# - sitename: 豆瓣
-#   name: 壮哥不胖
-#   url: http://www.douban.com/people/freedim
+- sitename: 豆瓣
+  name: 似水似流年
+  url: https://www.douban.com/people/125787666/
+
+- sitename: 知乎
+  name: 似水似流年
+  url: https://www.zhihu.com/people/fu-wen-hao-74
 
 # - sitename: 力扣
 #   name: mzlogin
@@ -42,10 +46,6 @@
   name: 似水似流年
   url: https://tuchong.com/13343250/
 
-- sitename: Keep
-  name: 似水似流年
-  url: https://www.gotokeep.com/users/56e65b8ff5185d1808d4dd18
-
 - sitename: 大众点评
   name: 似水似流年
   url: http://www.dianping.com/member/45420126/reviews
@@ -58,9 +58,14 @@
   name: 似水厶流年
   url: https://music.163.com/#/user/home?id=399901820
 
+- sitename: 马蜂窝mobile
+  name: 似水似流年
+  url: https://m.mafengwo.cn/user/profile/weng?uid=32307859&mfw_chid=2578-151782930&oth_chid_data=14448f42-d8fc-4aba-803c-1fedb13f0df5
+
 # - sitename: 小红书
-#   name: mzlogin
-#   url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+#   name: 似水似流年
+#   url: https://www.xiaohongshu.com/user/profile/5b4e046811be1031e22f19d8
+
 
 - sitename: 更多内容待续……
   name: 文の浩的博客
