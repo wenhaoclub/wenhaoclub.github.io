@@ -134,7 +134,7 @@ $ sudo jekyll serve
 
 **将http://127.0.0.1:4000/复制到浏览器，能打开就表示正常了。**
 
-<img src="https://raw.githubusercontent.com/wenhaoclub/blog-assets/master/images/posts/blogIntroduce.png">
+<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/blogIntroduce.png">
 
 ## **6、部署到github**
 
@@ -168,7 +168,7 @@ $ git clone https:**//**github**.**com**/**able615**/**able615**.**github**.**io
 
 刚拿到的主题，内容还是别人的，我们需要了解一下博客的[基本目录结构](https://www.jekyll.com.cn/)，然后加以修改成自己的博客框架。 
 
-<img src="https://raw.githubusercontent.com/wenhaoclub/blog-assets/master/images/posts/blogDir.png">
+<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/blogDir.png">
 
 1. 修改域名
     
