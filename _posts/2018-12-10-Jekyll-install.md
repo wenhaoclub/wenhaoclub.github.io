@@ -1,7 +1,7 @@
 ---
 layout: post
 lock: false
-title: Mac下Jekyll和Github搭建博客
+title: Jekyll和Github搭建博客-Mac系统
 date: 2018-12-10 21:41:03
 author: 文浩
 img:
