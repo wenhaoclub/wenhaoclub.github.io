@@ -25,28 +25,28 @@ keywords: wenhao,文浩, Python, 爬虫
 ### 请求获取：
 - 常用请求方式为get和post两种
 - 相关代码如下：
-    ![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/python/requestMethod.png)
+    ![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/python/requestMethod.png)
 
 ### 数据解析：
 - 此处是爬虫最重要也最繁琐的一部分
 - 需要根据爬取下来的html网页进行分析，解析出我们想要的数据
 - 部分代码截图如下：
-	![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/python/spider01.png)
+	![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/python/spider01.png)
 
 ### 数据保存：
 - 此处用到xls文件保存，即Excel表格
 - 核心点：在于确认数据有多少列，每列数据行对应上，关键点在于熟悉双层for循环
 - 部分代码截图如下：
-	![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/python/spider02.png)
+	![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/python/spider02.png)
 
 ### 其他功能：
 #### 图片下载：
 - 代码如下：
-	![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/python/pic.png)
+	![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/python/pic.png)
 
 #### 异步操作：
 - 测试代码如下：
-	![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/python/testAsy.png)
+	![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/python/testAsy.png)
 
 
 ## 开发Demo地址：	

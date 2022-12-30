@@ -4,7 +4,7 @@ title: 如何在工作时让自己精神保持十二分亢奋?
 categories: [Work]
 description: 食物、音乐、按摩、兴趣
 keywords: wenhao,wenhaoclub, fuwenhao.club, 文浩 ,  work ,  亢奋
-link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
+link: https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
 ---
 
 ## 如何在工作时让自己精神保持十二分亢奋? 

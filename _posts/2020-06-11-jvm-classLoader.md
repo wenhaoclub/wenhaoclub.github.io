@@ -39,7 +39,7 @@ public class Math {
 
 ```
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%B5%81%E7%A8%8B.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%B5%81%E7%A8%8B.png)
 
 - 其中loadClass的类加载过程有如下几步：
 - 加载 >> 验证 >> 准备 >> 解析 >> 初始化 >> 使用 >> 卸载
@@ -49,7 +49,7 @@ public class Math {
 	- 解析：将符号引用替换为直接引用，该阶段会把一些静态方法(符号引用，比如main()方法)替换为指向数据所存内存的指针或句柄等(直接引用)，这是所谓的静态链接过程(类加载期间完成)，动态链接是在程序运行期间完成的将符号引用替换为直接引用.
 	- 初始化：对类的静态变量初始化为指定的值，执行静态代码块
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E5%8A%A0%E8%BD%BD%E6%B5%81%E7%A8%8B.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E5%8A%A0%E8%BD%BD%E6%B5%81%E7%A8%8B.png)
 
 - 类被加载到方法区中后主要包含 **运行时常量池、类型信息、字段信息、方法信息、类加载器的引用**、对应class实例的引用等信息。
 - 类加载器的引用：这个类到类加载器实例的引用
@@ -200,7 +200,7 @@ public Launcher() {
 ### 双亲委派机制：
 - JVM类加载器是有亲子层级结构的，如下图:
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E5%8F%8C%E4%BA%B2%E5%A7%94%E6%B4%BE%E6%9C%BA%E5%88%B6.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E5%8F%8C%E4%BA%B2%E5%A7%94%E6%B4%BE%E6%9C%BA%E5%88%B6.png)
 - 这里类加载其实就有一个双亲委派机制，加载某个类时会先委托父加载器寻找目标类，找不到再委托上层父加载器加载，如果所有父加载器在自己的加载类路径下都找不到目标类，则在自己的类加载路径中查找并载入目标类。
 - 比如我们的Math类，最先会找应用程序类加载器加载，应用程序类加载器会先委托扩展类加载器加载，扩展类加载器再委托引导类加载器，顶层引导类加载器在自己的类加载路径里找了半天没找到Math类，则向下退回加载Math类的请求，扩展类加载器收到回复就自己加载，在自己的类加载路径里找了半天也没找到Math类，又向下退回Math类的加载请求给应用程序类加载器，应用程序类加载器于是在自己的类加载路径里找Math类，结果找到了就自己加载了。。
 - **双亲委派机制说简单点就是，先找父亲加载，不行再由儿子自己加载**
@@ -433,7 +433,7 @@ java.lang.SecurityException: Prohibited package name: java.lang
 
 
 ### Tomcat自定义加载器详解：
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/Tomcat%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8A%A0%E8%BD%BD%E5%99%A8.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/Tomcat%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8A%A0%E8%BD%BD%E5%99%A8.png)
 
 - tomcat的几个主要类加载器：
 	- commonLoader：Tomcat最基本的类加载器，加载路径中的class可以被Tomcat容器本身以及各个Webapp访问；

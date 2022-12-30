@@ -19,7 +19,7 @@
 
 **[在线预览 &rarr;](https://wenhaoclub.github.io)**
 
-![screenshot home](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/blogIntroduce.png)
+![screenshot home](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/posts/blogIntroduce.png)
 
 ## Fork 指南
 

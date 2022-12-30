@@ -11,17 +11,17 @@ keywords: wenhao, 文浩  ,  fuwenhao.club , wenhaoclub
 
 ## 分析: 
 ### JDK体系结构：
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/JDK%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/JDK%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.png)
 
 ### Java语言跨平台特性
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/java%E8%AF%AD%E8%A8%80%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%89%B9%E6%80%A7.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/java%E8%AF%AD%E8%A8%80%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%89%B9%E6%80%A7.png)
 
 
 ### JVM整体结构及内存模型
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/jvm%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/jvm%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 ### JVM内存参数设置
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/jvm%E5%86%85%E5%AD%98%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/jvm%E5%86%85%E5%AD%98%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE.png)
 
 
 - Spring Boot程序的JVM参数设置格式(Tomcat启动直接加在bin目录下catalina.sh文件里):
@@ -35,8 +35,12 @@ keywords: wenhao, 文浩  ,  fuwenhao.club , wenhaoclub
 - StackOverflowError示例:
 
 ```
-// JVM设置 ‐Xss128k(默认1M) publicclassStackOverflowTest{ static int count = 0;static void redo() { count++;
-redo(); 11 public static void main(String[] args) {
+// JVM设置 ‐Xss128k(默认1M) publicclassStackOverflowTest{
+ static int count = 0;
+static void redo() { count++;
+redo();
+ 
+11 public static void main(String[] args) {
 12 try{
 13 redo();
 14 } catch (Throwable t) {
@@ -56,7 +60,7 @@ redo(); 11 public static void main(String[] args) {
 	- -Xss设置越小count值越小，说明一个线程栈里能分配的栈帧就越少，但是对JVM整体来说能开启的线程数会更多
 - JVM内存参数大小该如何设置? 
 	- JVM参数大小设置并没有固定标准，需要根据实际项目情况分析，给大家举个例子
-	![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/GC%E9%85%8D%E7%BD%AE.png)
+	![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/GC%E9%85%8D%E7%BD%AE.png)
 
 - 结论: 通过上面这些内容介绍，大家应该对JVM优化有些概念了，就是尽可能让对象都在新生代里分配和回收，尽量别 让太多对象频繁进入老年代，避免频繁对老年代进行垃圾回收，同时给系统充足的内存大小，避免新生代频繁的进行垃 圾回收
 
@@ -106,7 +110,7 @@ redo(); 11 public static void main(String[] args) {
 - 反汇编命令：
 	- javap -c  ***.class
 	- javap -v  **.class  详细输出
-- [参考Jvm指令手册](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/00-JVM%E6%8C%87%E4%BB%A4%E6%89%8B%E5%86%8C.pdf)
+- [参考Jvm指令手册](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/00-JVM%E6%8C%87%E4%BB%A4%E6%89%8B%E5%86%8C.pdf)
 - 程序计数器--可以理解为执行存储code的顺序值
 - 每次执行完毕后，字节码执行引擎会去修改它。记录指令行号。
 - 注意：程序计数器是独立线程的，不要混淆。

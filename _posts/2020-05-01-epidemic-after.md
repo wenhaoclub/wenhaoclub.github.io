@@ -96,18 +96,18 @@ keywords: wenhao, 文浩 ,  fuwenhao.club,  wenhaoclub , 生活  ,  疫情
 	- 最近在听樊登的《认知天性》《好奇心》《感受爱》《逆商》
 	- 可以扫码收听~ 
 
-<!--![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/ganshouai.JPG)
+<!--![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/ganshouai.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/haoqixin.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/haoqixin.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/nishang.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/nishang.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/renzhitianxing.JPG)-->
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/renzhitianxing.JPG)-->
 
-<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/renzhitianxing.JPG" width="150" height="250">
-<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/haoqixin.JPG" width="150" height="250">
-<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/ganshouai.JPG" width="150" height="250">
-<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/nishang.JPG" width="150" height="250">
+<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/renzhitianxing.JPG" width="150" height="250">
+<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/haoqixin.JPG" width="150" height="250">
+<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/ganshouai.JPG" width="150" height="250">
+<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/nishang.JPG" width="150" height="250">
 
 
 --- 

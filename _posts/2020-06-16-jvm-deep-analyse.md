@@ -4,7 +4,7 @@ title: JVM对象创建与内存分配机制深度剖析
 categories: [Jvm, Java]
 description: JVM对象创建与内存分配机制深度剖析
 keywords: wenhao, 文浩  ,  fuwenhao.club , wenhaoclub 
-link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
+link: https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
 ---
 
 # 序：
@@ -15,7 +15,7 @@ link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.j
 ### 对象的创建：
 对象创建的主要流程:
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E5%AF%B9%E8%B1%A1%E5%88%9B%E5%BB%BA.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E5%AF%B9%E8%B1%A1%E5%88%9B%E5%BB%BA.png)
 
 1. **类加载检查** 
 	- 虚拟机遇到一条new指令时，首先将去检查这个指令的参数是否能在常量池中定位到一个类的符号引用，并且检查这个符号引用代表的类是否已被加载、解析和初始化过。如果没有，那必须先执行相应的类加载过程。 
@@ -40,7 +40,7 @@ link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.j
 	- 初始化零值之后，虚拟机要对对象进行必要的设置，例如这个对象是哪个类的实例、如何才能找到类的元数据信息、对 象的哈希码、对象的GC分代年龄等信息。这些信息存放在对象的对象头Object Header之中。 
 	- 在HotSpot虚拟机中，对象在内存中存储的布局可以分为3块区域:对象头(Header)、 实例数据(Instance Data) 和对齐填充(Padding)。 HotSpot虚拟机的对象头包括两部分信息，第一部分用于存储对象自身的运行时数据， 如哈 希码(HashCode)、GC分代年龄、锁状态标志、线程持有的锁、偏向线程ID、偏向时 间戳等。对象头的另外一部分 是类型指针，即对象指向它的类元数据的指针，虚拟机通过这个指针来确定这个对象是哪个类的实例。
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E5%AF%B9%E8%B1%A1%E5%A4%B4%E5%88%86%E6%9E%90.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E5%AF%B9%E8%B1%A1%E5%A4%B4%E5%88%86%E6%9E%90.png)
 
 	对象头在hotspot的C++源码里的注释如下:
 	
@@ -92,7 +92,7 @@ link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.j
 ### 对象内存分配：
 #### 对象内存分配流程图：
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E5%AF%B9%E8%B1%A1%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/%E5%AF%B9%E8%B1%A1%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
   
 #### 对象栈上分配
 - 我们通过JVM内存分配可以知道JAVA中的对象都是在堆上进行分配，当对象没有被引用的时候，需要依靠GC进行回收内存，如果对象数量较多的时候，会给GC带来较大压力，也间接影响了应用的性能。为了减少临时对象在堆内分配的数量，JVM通过逃逸分析确定该对象不会被外部访问。如果不会逃逸可以将该对象在栈上分配内存，这样该对象所占用的 内存空间就可以随栈帧出栈而销毁，就减轻了垃圾回收的压力。
@@ -112,7 +112,7 @@ link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.j
 - Eden与Survivor区默认8:1:1
 	- 大量的对象被分配在eden区，eden区满了后会触发minor gc，可能会有99%以上的对象成为垃圾被回收掉，剩余存活 的对象会被挪到为空的那块survivor区，下一次eden区满了后又会触发minor gc，把eden区和survivor区垃圾对象回 收，把剩余存活的对象一次性挪动到另外一块为空的survivor区，因为新生代的对象都是朝生夕死的，存活时间很短，所 以JVM默认的8:1:1的比例是很合适的，让eden区尽量的大，survivor区够用即可， JVM默认有这个参数-XX:+UseAdaptiveSizePolicy(默认开启)，会导致这个8:1:1比例自动变化，如果不想这个比例有变 化可以设置参数-XX:-UseAdaptiveSizePolicy
 
-<a href="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/03-VIP-JVM%E5%AF%B9%E8%B1%A1%E5%88%9B%E5%BB%BA%E4%B8%8E%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E6%9C%BA%E5%88%B6%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90.pdf" target="_blank">完整版内容链接</a>
+<a href="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/03-VIP-JVM%E5%AF%B9%E8%B1%A1%E5%88%9B%E5%BB%BA%E4%B8%8E%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E6%9C%BA%E5%88%B6%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90.pdf" target="_blank">完整版内容链接</a>
 
 > #### 大对象直接进入老年代：
 > #### 长期存活的对象将进入老年代：

@@ -5,7 +5,7 @@ title: Jekyll和Github搭建博客-Mac系统
 date: 2018-12-10 21:41:03
 author: 文浩
 img:
-coverImg: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/banner/09.jpg
+coverImg: https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/banner/09.jpg
 top: false
 cover: false
 toc: true
@@ -16,7 +16,7 @@ tags:
 categories: [Jekyll]
 description: Mac下Jekyll和Github搭建博客
 keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , plus.fuwenhao.club  ,文浩的博客 , 似水似流年的博客
-link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
+link: https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
 ---
 
 <!--

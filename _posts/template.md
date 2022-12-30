@@ -5,7 +5,7 @@ title: template page
 date: 2020-09-05 21:41:03
 author: 文浩
 img:
-coverImg: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/banner/09.jpg
+coverImg: https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/banner/09.jpg
 top: true
 cover: true
 toc: true
@@ -17,7 +17,7 @@ tags:
 categories: [Life]
 description: some word here
 keywords: wenhao  , 文浩  , 似水似流年  , wenhaoclub  , fuwenhao.club , plus.fuwenhao.club  ,文浩的博客 , 似水似流年的博客
-link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
+link: https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
 ---
 # 序：
 >
@@ -32,7 +32,7 @@ link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.j
 
 -  图片
 
-<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/renzhitianxing.JPG" width="150" height="250">
+<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/fandeng/renzhitianxing.JPG" width="150" height="250">
 
 ![垃圾算法](/images/posts/jvm/GC_memory02.png)
 - newTable链接：

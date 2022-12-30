@@ -134,7 +134,7 @@ cafe babe 0000 0034 0015 0a00 0400 1109
 ```
 
 ## 教程分析：
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/class_contant.png)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/class_contant.png)
 
 - 参照class文件结构图分析：
     - 魔数: 文件的开头的 四个字节 是固定 值位 0xCAFEBABE
@@ -226,11 +226,11 @@ cafe babe 0000 0034 0015 0a00 0400 1109
 - [深入理解Java虚拟机.pdf](https://pan.baidu.com/s/1iPLX2VTW93wScyNVlcQkGA) （可复制版）
 
 ## 总结：
-<a href="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/class%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84V4.pdf" target="_blank">完整版文档地址</a>
+<a href="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/class%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84V4.pdf" target="_blank">完整版文档地址</a>
 
-<a href="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/TulingByteCode.json" target="_blank">完整版分析json数据</a>
+<a href="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/TulingByteCode.json" target="_blank">完整版分析json数据</a>
 
-<a href="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/class%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84%E5%8F%82%E7%85%A7%E8%A1%A8%E5%85%A8%E9%9B%86.pdf" target="_blank">class文件结构参照表全集</a>
+<a href="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/class%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84%E5%8F%82%E7%85%A7%E8%A1%A8%E5%85%A8%E9%9B%86.pdf" target="_blank">class文件结构参照表全集</a>
 
 <a href="https://www.processon.com/view/link/5eb50263e401fd16f42345f4" target="_blank">一网打尽各种常量池</a>
 

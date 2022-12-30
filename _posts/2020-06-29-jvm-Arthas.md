@@ -451,4 +451,4 @@ public class Test {
 } 
 ```
 
-- <a href="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/08-VIP-JVM%E8%B0%83%E4%BC%98%E5%AE%9E%E6%88%98%E5%8F%8A%E5%B8%B8%E9%87%8F%E6%B1%A0%E8%AF%A6%E8%A7%A3.pdf" target="_blank">完整版链接</a>
+- <a href="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/files/java/jvm/08-VIP-JVM%E8%B0%83%E4%BC%98%E5%AE%9E%E6%88%98%E5%8F%8A%E5%B8%B8%E9%87%8F%E6%B1%A0%E8%AF%A6%E8%A7%A3.pdf" target="_blank">完整版链接</a>

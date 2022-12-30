@@ -5,7 +5,7 @@ title: 记--疫情期间短暂厨艺生涯😪
 categories: [Life]
 description: 自己买菜，自己洗菜，自己烧菜，自己吃菜
 keywords: wenhao, 文浩 ,  fuwenhao.club ,  wenhaoclub , 做饭
-link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
+link: https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.jpg
 ---
 
 
@@ -28,7 +28,7 @@ link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.j
 - 其实个人对食物算不上太挑剔，荤素不忌，也能吃辣口。喜欢美食，但算不上是合格的吃货。经朋友推荐后续会在大众点评上记录美食生活~🤗
 
 -  疫情期间真的是锻炼了我的做饭水平，技能点提高了不少。不过刀功有待进步~🤔
-	- <img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/gaoxiao01.png" width="150" height="200">
+	- <img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/gaoxiao01.png" width="150" height="200">
 
 ---
 
@@ -61,44 +61,44 @@ link: https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Java/JVM/head2.j
 
 > 以下图片未压缩，未调整。因为博主很懒……︿(￣︶￣)︿
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0262.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0262.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0474.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0474.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0758.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0758.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_1457.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_1457.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_4856.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_4856.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_6076.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_6076.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_7554.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_7554.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_9513.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_9513.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_9847.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_9847.JPG)
 
-![](https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_9433.JPG)
+![](https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_9433.JPG)
 
-<!--<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0262.JPG" width="150" height="250">
+<!--<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0262.JPG" width="150" height="250">
 -->
 
-<!--<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0474.JPG" width="150" height="250">-->
+<!--<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0474.JPG" width="150" height="250">-->
 
-<!--<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0758.JPG" width="150" height="250">
+<!--<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_0758.JPG" width="150" height="250">
 -->
-<!--<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_1457.JPG" width="150" height="250">
+<!--<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_1457.JPG" width="150" height="250">
 -->
-<!--<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_4856JPG" width="150" height="250">-->
+<!--<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_4856JPG" width="150" height="250">-->
 
-<!--<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_6076.JPG" width="150" height="250">
+<!--<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_6076.JPG" width="150" height="250">
 
-<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_7554.JPG" width="150" height="250">
+<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_7554.JPG" width="150" height="250">
 
-<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_9513.JPG" width="150" height="250">
+<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_9513.JPG" width="150" height="250">
 
-<img src="https://cdn.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_9847.JPG" width="150" height="250">
+<img src="https://gcore.jsdelivr.net/gh/wenhaoclub/blog-assets/images/Life/food/IMG_9847.JPG" width="150" height="250">
 -->
 
 
